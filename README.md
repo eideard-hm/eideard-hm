@@ -42,21 +42,6 @@ const eideard-hm = {
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#354](https://github.com/nextcord/nextcord/pull/354) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🎉 Merged PR [#80](https://github.com/DenverCoder1/readme-typing-svg/pull/80) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 💪 Opened PR [#27](https://github.com/nextcord/nextcord-ext-menus/pull/27) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-4. ❗️ Opened issue [#353](https://github.com/nextcord/nextcord/issues/353) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. ❗️ Opened issue [#26](https://github.com/nextcord/nextcord-ext-menus/issues/26) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-<!--END_SECTION:activity-->
-</details>
-
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/eideard-hm?tab=repositories"><img alt="eideard-hm's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=eideard-hm&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
