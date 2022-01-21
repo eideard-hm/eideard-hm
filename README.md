@@ -20,7 +20,7 @@ const eideard-hm = {
             css: ["Bootstrap", "Vanilla CSS"]
         },
         mobileApp: {
-            Cross-Platforms: ["Ionic", "React Native"],   
+            CrossPlatforms: ["Ionic", "React Native"],   
         },
         databases: ["MySql", "Microsoft SQL Server", "Mongodb"],
         version control: ["Git", "GitHub"]
