@@ -12,7 +12,7 @@ const eideard-hm = {
     askMeAbout: ["web dev", "app dev"],
     technologies: {
         backEnd: {
-            js: ["Nodejs", "express"],
+            js: ["Nodejs", "express", "nestjs"],
             others: ["Java", "C#", "ASP.Net Core", "PHP"]
         },
         frontEnd: {
