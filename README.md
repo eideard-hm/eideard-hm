@@ -7,23 +7,24 @@
 
 ```javascript
 const eideard-hm = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "TypeScript", "Java", "PHP"],
-    askMeAbout: ["web dev", "app dev"],
+    pronouns: 'He' | 'Him',
+    code: ['Javascript', 'TypeScript', 'Java', 'PHP'],
+    askMeAbout: ['web dev', 'app dev'],
     technologies: {
         backEnd: {
-            js: ["Nodejs", "express", "nestjs"],
-            others: ["Java", "C#", "ASP.Net Core", "PHP"]
+            Js: ['Nodejs', 'express'],
+            PHP: ['PHP', 'Laravel'],
+            C#: ['C#', 'ASP.Net Core', 'Entity Framework']
         },
         frontEnd: {
-            js: ["Angular", "React", "Vanila JavaScript"],
-            css: ["Bootstrap", "Vanilla CSS"]
+            js: ['Angular', 'React', 'Vanila JavaScript'],
+            css: ['Bootstrap', 'Vanilla CSS']
         },
         mobileApp: {
-            CrossPlatforms: ["Ionic", "React Native"],   
+            CrossPlatforms: ['Ionic', 'React Native'],   
         },
-        databases: ["MySql", "Microsoft SQL Server", "Mongodb"],
-        version control: ["Git", "GitHub"]
+        databases: ['MySql', 'Microsoft SQL Server', 'Mongodb'],
+        version control: ['Git', 'GitHub']
     }
 };
 ```
