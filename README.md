@@ -8,23 +8,23 @@
 ```javascript
 const eideard-hm = {
     pronouns: 'He' | 'Him',
-    code: ['Javascript', 'TypeScript', 'Java', 'PHP'],
+    code: ['JavaScript', 'TypeScript', '.NET', 'PHP'],
     askMeAbout: ['web dev', 'app dev'],
     technologies: {
         backEnd: {
-            Js: ['Nodejs', 'express'],
+            Js: ['Node.js', 'express'],
             PHP: ['PHP', 'Laravel'],
             C#: ['C#', '.NET', 'Entity Framework']
         },
         frontEnd: {
-            js: ['Angular', 'React', 'Vanila JavaScript'],
+            js: ['Angular', 'React', 'Vanilla JavaScript'],
             css: ['Bootstrap', 'Vanilla CSS']
         },
         mobileApp: {
-            CrossPlatforms: ['Ionic', 'React Native'],   
+            CrossPlatforms: ['Ionic'],   
         },
         databases: ['MySql', 'Microsoft SQL Server', 'Mongodb'],
-        version control: ['Git', 'GitHub']
+        versionControl: ['Git', 'GitHub']
     }
 };
 ```
