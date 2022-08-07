@@ -12,18 +12,18 @@ const eideard-hm = {
     askMeAbout: ['web dev', 'app dev'],
     technologies: {
         backEnd: {
-            Js: ['Node.js', 'express'],
+            Js: ['Node.js', 'Express'],
             PHP: ['PHP', 'Laravel'],
             C#: ['C#', '.NET', 'Entity Framework']
         },
         frontEnd: {
-            js: ['Angular', 'React', 'Vanilla JavaScript'],
+            js: ['Angular', 'React', 'Next', 'Vanilla JavaScript'],
             css: ['Bootstrap', 'Vanilla CSS']
         },
         mobileApp: {
             CrossPlatforms: ['Ionic'],   
         },
-        databases: ['MySql', 'Microsoft SQL Server', 'Mongodb'],
+        databases: ['MySql', 'Microsoft SQL Server', 'MongoDB'],
         versionControl: ['Git', 'GitHub']
     }
 };
