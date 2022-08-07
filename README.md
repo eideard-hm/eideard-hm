@@ -9,7 +9,7 @@
 const eideard-hm = {
     pronouns: 'He' | 'Him',
     code: ['JavaScript', 'TypeScript', '.NET', 'PHP'],
-    askMeAbout: ['web dev', 'app dev'],
+    askMeAbout: ['web dev', 'app dev', 'front-end', 'back-end'],
     technologies: {
         backEnd: {
             Js: ['Node.js', 'Express'],
