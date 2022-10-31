@@ -17,7 +17,7 @@ const eideard-hm = {
             C#: ['C#', '.NET', 'Entity Framework']
         },
         frontEnd: {
-            js: ['Angular', 'React', 'Next', 'Vanilla JavaScript'],
+            js: ['Angular', 'React', 'Next.js', 'Vanilla JavaScript'],
             css: ['Bootstrap', 'Vanilla CSS']
         },
         mobileApp: {
