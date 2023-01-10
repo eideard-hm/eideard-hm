@@ -8,13 +8,14 @@
 ```javascript
 const eideard-hm = {
     pronouns: 'He' | 'Him',
-    code: ['JavaScript', 'TypeScript', '.NET', 'PHP'],
+    code: ['JavaScript', 'TypeScript', '.NET', 'Go'],
     askMeAbout: ['web dev', 'app dev', 'front-end', 'back-end', 'full-stack'],
     technologies: {
         backEnd: {
             Js: ['Node.js', 'Express'],
+            C#: ['C#', '.NET', 'Entity Framework'],
+            Go: ['Go', 'GORM']
             PHP: ['PHP', 'Laravel'],
-            C#: ['C#', '.NET', 'Entity Framework']
         },
         frontEnd: {
             js: ['Angular', 'React', 'Next.js', 'Vanilla JavaScript'],
