@@ -18,7 +18,7 @@ const eideard-hm = {
             PHP: ['PHP', 'Laravel'],
         },
         frontEnd: {
-            js: ['Angular', 'React', 'Next.js', 'Vanilla JavaScript'],
+            js: ['Angular', 'React', 'Next.js', 'Astro', 'Vanilla JavaScript'],
             css: ['Bootstrap', 'Vanilla CSS']
         },
         mobileApp: {
