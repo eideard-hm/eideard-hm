@@ -14,7 +14,7 @@ const eideard-hm = {
         backEnd: {
             Js: ['Node.js', 'Express'],
             C#: ['C#', '.NET', 'Entity Framework'],
-            Go: ['Go', 'GORM'],
+            Go: ['Go', 'GORM', 'Fiber'],
             PHP: ['PHP', 'Laravel'],
         },
         frontEnd: {
