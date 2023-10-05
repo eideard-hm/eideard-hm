@@ -19,7 +19,7 @@ const eideard-hm = {
         },
         frontEnd: {
             js: ['Angular', 'React', 'Next.js', 'Astro', 'Qwik, 'Vanilla JavaScript'],
-            css: ['Bootstrap', 'Vanilla CSS']
+            css: ['Vanilla CSS', 'Tailwind CSS']
         },
         mobileApp: {
             CrossPlatforms: ['Ionic'],   
