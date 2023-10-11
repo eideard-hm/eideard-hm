@@ -12,13 +12,13 @@ const eideard-hm = {
     askMeAbout: ['web dev', 'app dev', 'front-end', 'back-end', 'full-stack'],
     technologies: {
         backEnd: {
-            Js: ['Node.js', 'Express'],
-            C#: ['C#', '.NET', 'Entity Framework'],
+            js: ['Node.js', 'Express'],
+            'C#': ['C#', '.NET', 'Entity Framework'],
             Go: ['Go', 'GORM', 'Fiber'],
             PHP: ['PHP', 'Laravel'],
         },
         frontEnd: {
-            js: ['Angular', 'React', 'Next.js', 'Astro', 'Qwik, 'Vanilla JavaScript'],
+            js: ['Angular', 'React', 'Next.js', 'Astro', 'Qwik', 'Vanilla JavaScript'],
             css: ['Vanilla CSS', 'Tailwind CSS']
         },
         mobileApp: {
