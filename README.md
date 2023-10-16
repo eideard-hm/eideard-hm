@@ -13,8 +13,8 @@ const eideard-hm = {
     technologies: {
         backEnd: {
             js: ['Node.js', 'Express'],
-            'C#': ['C#', '.NET', 'Entity Framework'],
-            Go: ['Go', 'GORM', 'Fiber'],
+            'c#': ['C#', '.NET', 'Entity Framework'],
+            golang: ['Go', 'GORM', 'Fiber'],
             PHP: ['PHP', 'Laravel'],
         },
         frontEnd: {
