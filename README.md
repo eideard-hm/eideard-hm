@@ -22,7 +22,7 @@ const eideard-hm = {
             css: ['Vanilla CSS', 'Tailwind CSS']
         },
         mobileApp: {
-            CrossPlatforms: ['Ionic'],   
+            crossPlatforms: ['Ionic'],   
         },
         databases: ['MySql', 'Microsoft SQL Server', 'MongoDB'],
         versionControl: ['Git', 'GitHub']
